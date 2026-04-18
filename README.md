@@ -45,7 +45,7 @@ This project delivers a comprehensive data analytics solution focused on underst
 
 ---
 
-## 📊 Visualisation Mapping
+## 📊 Data Mapping
 - Bar Charts → Attrition by role  
 - Histograms → Workforce distribution  
 - Box Plots → Income vs attrition  
@@ -109,8 +109,10 @@ Power BI dashboard (.pbix or cloud publish)
 ## 📚 Credits
 - Course materials  
 - Open-source HR dataset  
-
+-chat gbt used for corecting and helping with commets
+-copilot used to correct codes
 ---
+
 
 ## 🙌 Acknowledgements
 Thanks to instructors, mentors, and peers.
